@@ -14,7 +14,7 @@ int main()
 	
 	if(size<n)
 	{
-		cout<<"Enter the element for insert at beginning : ";
+		cout<<"Enter the element for insert at end : ";
 		cin>>x;
 		arr[size] = x;
 		size++;
