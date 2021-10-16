@@ -22,7 +22,7 @@ int main()
 	for(int i=0;i<size;i++)
 		cin>>arr[i];
 		
-	//delete from beginning
+	//delete from end
 
 	size--;
 	for(int i=0;i<size;i++)
