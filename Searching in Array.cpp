@@ -1,3 +1,9 @@
+//Searching an array means to find a particular element in the array. 
+//The search can be used to return the position of the element or check if it exists in the array.
+//Two types of searching Algorithm : Linear Search and Binary Search.
+
+// Here we can discuss Linear Search Algorithm.
+
 #include<iostream>
 using namespace std;
 
