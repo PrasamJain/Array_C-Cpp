@@ -1,3 +1,13 @@
+// Given an array arr[] of size N, the task is to sort this array in ascending and descending order in C.
+//There are many ways by which the array can be sorted in ascending order, like:  
+/*
+Selection Sort
+Bubble Sort
+Merge Sort
+Radix Sort
+Insertion Sort, etc
+*/
+
 #include<iostream>
 using namespace std;
 int main()
