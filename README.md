@@ -7,7 +7,7 @@ An array is used to store a collection of data, but it is often more useful to t
 All arrays consist of contiguous memory locations. The lowest address corresponds to the first element and the highest address to the last element.
 
 # Declaring Arrays
-To declare an array in C, a programmer specifies the type of the elements and the number of elements required by an array as follows −
+To declare an array in C/C++, a programmer specifies the type of the elements and the number of elements required by an array as follows −
           
         type arrayName [ arraySize ];
 
