@@ -16,9 +16,19 @@ To declare an array in C/C++, a programmer specifies the type of the elements an
         int arr[10] = { 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 }
         int arr[] = { 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 }
         
-Accessing Array Elements  
+Accessing Array Elements :-
 
-arr[8];      //9
+Indexing of array starts from 0 to n.
+
+arr[0];      //1
+arr[1];      //2
+          .
+          .
+          .
+          .
+          .
+arr[9];      //10
+
 
 Allocation - 
 we can allocate array using static memory and dynamic memory allocation.
